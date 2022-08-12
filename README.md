@@ -18,7 +18,7 @@ I've created many UI/UX Design projects. To be a UI/UX Designer is so amazing. I
 <a href="https://api.whatsapp.com/send?phone=628980092235"><img align="left" src="https://img.icons8.com/color/344/whatsapp--v1.png" alt="Maulana Fajar Lazuardi | WhatsApp" width="21px"/></a>
 <a href="https://t.me/mafalaz"><img align="left" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="Maulana Fajar Lazuardi | Telegram" width="21px"/></a>
 </br>
-<a href="mailto:lazuardi264@gmail.com"><img align="left" src="https://img.icons8.com/color/344/gmail--v1.png" alt="Maulana Fajar Lazuardi | Email" width="21px"/></a>
+<a href="mailto:lazuardi264@gmail.com"><img align="right" src="https://img.icons8.com/color/344/gmail--v1.png" alt="Maulana Fajar Lazuardi | Email" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
