@@ -54,7 +54,10 @@ I've created many UI/UX Design projects. To be a UI/UX Designer is so amazing. I
 
 ## 📝 My Project
 Figma Prototype:
-- [UI/UX Design Mobile (Figma Prototype) - Jakarta Emergency](https://bit.ly/3vOURR4)
-- [UI/UX Design Mobile (Figma Prototype) - Sciport](https://bit.ly/3PixIxy)
-- [UI Design Website (Figma Prototype) Portofolio](https://bit.ly/3BNxNpL)
-- [Website Porto](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [UI/UX Design Mobile - Jakarta Emergency](https://bit.ly/3vOURR4)
+- [UI/UX Design Mobile - Sciport](https://bit.ly/3PixIxy)
+- [UI Design Website Portofolio](https://bit.ly/3BNxNpL)
+Website Deployment:
+- [Portofolio](https://mafalaz.github.io/portofolio/)
+- [Landing Page](https://mafalaz.github.io/tim-f36/)
+- [Web Calculator](https://mafalaz.github.io/web-calculator/)
