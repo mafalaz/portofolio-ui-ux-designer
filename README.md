@@ -24,17 +24,14 @@ I've created many UI/UX Design projects. To be a UI/UX Designer is so amazing. I
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- UI/UX Mobile and Website
 - My next blog
 - My CSS skill
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- React JS
+- Front End Web Development  
 
 ## 💼 Technical Skills
 
