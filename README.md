@@ -53,8 +53,8 @@ I've created many UI/UX Design projects. To be a UI/UX Designer is so amazing. I
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 My Project
-
+Figma Prototype:
 - [UI/UX Design Mobile (Figma Prototype) - Jakarta Emergency](https://bit.ly/3vOURR4)
 - [UI/UX Design Mobile (Figma Prototype) - Sciport](https://bit.ly/3PixIxy)
-- [UI Design Website Portofolio](https://bit.ly/3BNxNpL)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [UI Design Website (Figma Prototype) Portofolio](https://bit.ly/3BNxNpL)
+- [Website Porto](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
