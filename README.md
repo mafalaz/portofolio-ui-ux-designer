@@ -52,9 +52,9 @@ I've created many UI/UX Design projects. To be a UI/UX Designer is so amazing. I
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
+## 📝 My Project
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
+- [UI/UX Design Mobile (Figma Prototype) - Jakarta Emergency](https://bit.ly/3vOURR4)
+- [UI/UX Design Mobile (Figma Prototype) - Sciport](https://bit.ly/3PixIxy)
+- [UI Design Website Portofolio](https://bit.ly/3BNxNpL)
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
